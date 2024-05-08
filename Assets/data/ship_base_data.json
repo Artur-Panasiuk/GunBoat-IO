@@ -1,0 +1,22 @@
+{
+	"ships":[
+		{
+			"shipType": "Player",
+			"hp": 100,
+			"points": 0,
+			"baseForwardSpeed": 10,
+			"baseForwardSpeedMultiplier": 1.2,
+			"accelerationRate": 6,
+			"baseRotationSpeed": 40
+		},
+		{
+			"shipType": "Schooner",
+			"hp": 100,
+			"points": 1000,
+			"baseForwardSpeed": 4,
+			"baseForwardSpeedMultiplier": 1.3,
+			"accelerationRate": 8,
+			"baseRotationSpeed": 40
+		}
+	]
+}

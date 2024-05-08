@@ -1,0 +1,10 @@
+{
+    "guns": [
+        {
+            "gunName": "cannonballs",
+            "cooldown": 1,
+            "attackTime": 1,
+            "damage": 10
+        }
+    ]
+}
